@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vinnymaker18 (Vinay Emani)
 - 👀 I’m interested in Software development, CS, Algorithms, Systems programming
-- 🌱 I’m currently learning OpenGL, frontend development
 
 <!---
 vinnymaker18/vinnymaker18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
